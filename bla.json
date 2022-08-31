@@ -1,1 +1,28 @@
-
+{
+  "https://thetravelvibes.com": {
+    "posts": [
+      "https://thetravelvibes.com/things-to-know-before-moving-to-spain/",
+      "https://thetravelvibes.com/things-to-do-in-spain/",
+      "https://thetravelvibes.com/driving-in-russia/",
+      "https://thetravelvibes.com/places-to-stay-in-russia/",
+      "https://thetravelvibes.com/hotels-in-johnstown-pa/",
+      "https://thetravelvibes.com/hotels-in-beloit-wi/",
+      "https://thetravelvibes.com/hotels-in-salem-va/",
+      "https://thetravelvibes.com/hotels-in-parkersburg-wv/",
+      "https://thetravelvibes.com/hotels-in-front-royal-va/",
+      "https://thetravelvibes.com/hotels-in-dumas-tx/"
+    ],
+    "url": "https://Instagram.com/datravelvibes",
+    "proops": {
+      "proof_1": {
+        "description": "1. Submit the 2nd URL visited post:",
+        "proop": "https://thetravelvibes.com/hotels-in-salem-va/"
+      },
+       "proof_2": {
+        "description": "1. Submit the 2nd URL visited post:",
+        "proop": "https://thetravelvibes.com/hotels-in-salem-va/"
+      }
+    }
+    
+  }
+}
